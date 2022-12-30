@@ -1,5 +1,6 @@
 {
     "version":2,
+    "use":"./index.js",
     "routes":[
         {
             "src":"/(.*)",
