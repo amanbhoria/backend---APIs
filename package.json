@@ -9,7 +9,6 @@
   },
   "scripts": {
     "start":"nodemon index.js",
-    "build": "./node_modules/.bin/netlify-lambda build src",
     "netlify":"netlify"
   }
 }
